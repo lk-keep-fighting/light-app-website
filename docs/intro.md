@@ -2,46 +2,21 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# 简介
 
-Let's discover **Docusaurus in less than 5 minutes**.
+通过提供的能力，自己搭建或下载简单有用的轻应用，使我们可以从重复、繁杂的工作中解放出来，做更有意义的事。
 
-## Getting Started
 
-Get started by **creating a new site**.
+![介绍](/img/intro/3part.png)
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+## 可以做什么
+- 表格类数据管理应用
+- 中后台管理系统想法的快速验证
+- 多方系统数据聚合、转换
+- spring boot项目快速开发框架
 
-### What you'll need
+## 不建议做什么
+- 成熟的OA、任务管理等协同系统
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+## 联系我
+  微信：13637068996

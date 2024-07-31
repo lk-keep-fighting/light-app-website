@@ -10,29 +10,29 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: '快速启动',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        DB-first model,generate your crud-app from database imediately.
+        从你喜欢的模版或数据库快速创建
       </>
     ),
   },
   {
-    title: 'Easy to Change',
+    title: '易于定制',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Use <code>amis-editor</code> to modify your page as you want.
+        使用 <code>amis-editor</code>可视化设计你的界面.
       </>
     ),
   },
   {
-    title: 'Full Control by Yourself',
+    title: '完全掌控',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        
+        私有化部署，完整定制能力
       </>
     ),
   },
